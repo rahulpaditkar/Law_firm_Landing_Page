@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica+Now+Display:ital,wght@0,400;0,500;0,700;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-helvetica-now-display: "Helvetica Now Display";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-35xl: 54px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-gray-100: #818181;
+  --color-gray-200: #1d1d1d;
+  --color-gray-300: rgba(255, 255, 255, 0.1);
+  --color-black: #000;
+  --color-goldenrod: #e3b748;
+  --color-gainsboro-100: #e4e4e4;
+  --color-gainsboro-200: #d9d9d9;
+  --pure-white: #fff;
+  --text-black: #373737;
+  --color-darkslategray-100: #2e2e2e;
+  --color-floralwhite: #fffbf2;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-sm: 14px;
+  --br-4xl-5: 23.5px;
+  --br-24xl: 43px;
+}
